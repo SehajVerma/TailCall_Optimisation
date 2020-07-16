@@ -1,0 +1,3 @@
+Tail Call is an optimisation technique
+where no stack is needed when same function is called again and again
+to save some variables in stack and use when function call ends.
